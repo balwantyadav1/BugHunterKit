@@ -109,7 +109,7 @@ sudo reboot -f
 ```
 Install BugHunterKit tool
 ```bash
-git clone https://github.com/balwantyadav1/BugHunterKit
+git clone https://github.com/balwantyadav1/BugHunterKit.git
 cd BugHunterKit
 chmod +x *
 ./install_all.sh 
@@ -156,7 +156,7 @@ sudo reboot -f
 ```
 Install BugHunterKit tool
 ```bash
-git clone https://github.com/balwantyadav1/BugHunterKit
+git clone https://github.com/balwantyadav1/BugHunterKit.git
 cd BugHunterKit
 chmod +x *
 ./install_all.sh 
@@ -180,7 +180,7 @@ brew install git curl wget
 ```
 install BugHunterKit tool
 ```bash
-git clone https://github.com/balwantyadav1/BugHunterKit
+git clone https://github.com/balwantyadav1/BugHunterKit.git
 cd BugHunterKit
 chmod +x *
 ./install_all.sh 
