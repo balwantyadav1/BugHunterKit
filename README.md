@@ -120,6 +120,10 @@ copy the file into /usr/local/bin
 ```
 Installation Complete
 
+Watch the video installing in Debian-Based-Linux CLICK -TO_WATCH 👇
+
+[![Watch the video](https://img.playbook.com/ceqlTBoUJYw-WXanjKMszwmLLDz7x0Gk8zwmE_ScziU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Y1NmQ4OWJh/LWQzYTAtNDQzZi05/Y2RjLTc1M2ZmNDE4/MmY2MA)](https://youtu.be/93OnuC8kMmc)
+
 ### Installation-RedHat-Based-Linux 
 
 Install dependency
@@ -191,7 +195,8 @@ copy the file into /usr/local/bin
 ```
 Installation Complete
 
-Watch the video installing in MacOS CLICK -TO_WATCH
+Watch the video installing in MacOS CLICK -TO_WATCH 👇
+
 [![Watch the video](https://img.playbook.com/BYS6t0SAEWVul9KEyJPmMZnD0DD7uXIDNuSr3uaXTZ8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Y1NjQ2OWEy/LTM1ZDgtNGJmMi05/MGJiLTQzZDg3Mzlh/NzYzOA)](https://youtu.be/pHHNd5rXzVM)
 
 ### Contributing
