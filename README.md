@@ -4,8 +4,10 @@
 * [Project Title and Introduction](#Title)
 * [Screenshots](#Screenshots)
 * [Motivation-to-Make-this-Tool](#Motivation-to-Make-this-Tool)
+* [Operating System Compatibility](#Operating-System-Compatibility)
 * [Tools-that-install](#Tools-that-install)
 * [Installation](#Installation)
+* [License](#License)
 * [Contributing](#Contributing)
 
 ### Title
@@ -48,6 +50,16 @@ In the realm of cybersecurity, time is of the essence, and efficiency is paramou
 In an era where every second counts, our enumeration tool stands as a testament to efficiency, enabling practitioners to fortify their security posture with ease. Elevate your productivity, embrace simplicity, and stay ahead in the ever-evolving landscape of cybersecurity.
 
 ---
+
+
+### Operating-System-Compatibility
+
+| O/S            | Status  |
+| :------------- | :-----: |
+| Linux          |   ✅    |
+| macOS          |   ✅    |
+| Windows (WSL2) |   ✅    |
+
 
 ### Tools-that-install
 
@@ -199,6 +211,9 @@ Watch the video installing in MacOS CLICK -TO_WATCH 👇
 
 [![Watch the video](https://img.playbook.com/BYS6t0SAEWVul9KEyJPmMZnD0DD7uXIDNuSr3uaXTZ8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Y1NjQ2OWEy/LTM1ZDgtNGJmMi05/MGJiLTQzZDg3Mzlh/NzYzOA)](https://youtu.be/pHHNd5rXzVM)
 
+### License
+
+[MIT License](LICENSE)
 ### Contributing
 
 Contributions are always welcome!
