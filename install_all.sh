@@ -221,7 +221,7 @@ echo "Start setting up your reconnaissance environment"
 
         2)
           # Arch Linux selected
-          xdg-open "https://www.google.com"
+          xdg-open "https://github.com/balwantyadav1/BugHunterKit#Installation-Arch-Based-Linux"
           ;;
 
         3)
