@@ -88,6 +88,8 @@ install_macos_packages() {
   sleep 3
   bold_text "Installing FFUF..."
   go install github.com/ffuf/ffuf/v2@latest
+  sleep 2
+  sudo chmod +x /usr/local/bin/subscraper.py
   # Run your_script.sh
   ./mac_ch.sh
   # End of your script
@@ -151,7 +153,8 @@ git clone https://github.com/Sherlock297/gf_patterns.git && cd gf_patterns/ && c
   sudo apt install dirsearch || pip3 install dirsearch || pip install dirsearch
   bold_text "Installing FFUF..."
   go install github.com/ffuf/ffuf/v2@latest || sudo apt install ffuf 
-  sleep
+  sleep 2
+  sudo chmod +x /usr/local/bin/subscraper.py
   ./linux_ch.sh
   ./linux_cp.sh
   
