@@ -64,7 +64,7 @@ In an era where every second counts, our enumeration tool stands as a testament 
 ### Tools-that-install
 
 
-SUBDMIN-ENUMEATION | URL-ENUMERATION | Directory-ENUMERATION | 🌐 | 🚀 |
+SUBDMIN-ENUMERATION | URL-ENUMERATION | Directory-ENUMERATION | 🌐 | 🚀 |
 |---|---|---|---|---|
 | [subfinder](https://github.com/projectdiscovery/subfinder.git) | [Gauplus](https://github.com/bp0lr/gauplus.git) | [DirSearch](https://github.com/maurosoria/dirsearch.git) |
 | [Subscraper](https://github.com/m8sec/subscraper.git) | [Waybackurls](https://github.com/tomnomnom/waybackurls.git)  | [FFUF](https://github.com/ffuf/ffuf.git) |
