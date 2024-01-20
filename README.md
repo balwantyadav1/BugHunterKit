@@ -184,7 +184,49 @@ copy the file into /usr/local/bin
 Installation Complete
 
 ### Installation-Arch-Based-Linux 
-Working on it 
+Install dependency
+
+```bash
+sudo pacman -Syu --noconfirm git curl wget go 
+```
+Add these lines to your shell profile file (e.g., ~/.bashrc, ~/.zshrc, or ~/.bash_profile):
+```bash
+nano ~/.bashrc 
+```
+Set Go Environment Variables . copy the following lines at the end of the file and Save it..
+
+```bash
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+```
+Create a Go Workspace
+```bash
+mkdir -p ~/go/src
+mkdir -p ~/go/bin
+```
+Installing Rust :- 
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+
+Reboot system to load the file properly :- 
+```bash
+sudo reboot -f
+```
+Install BugHunterKit tool
+```bash
+git clone https://github.com/balwantyadav1/BugHunterKit.git
+cd BugHunterKit
+chmod +x *
+./install_all.sh 
+```
+copy the file into /usr/local/bin
+```bash
+./linux_ch.sh
+```
+Installation Complete
 
 ### Installation-MacOS 
 Installing Rust :- 
